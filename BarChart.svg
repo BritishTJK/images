@@ -1,1 +1,30 @@
-<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" overflow="hidden"><defs><clipPath id="clip0"><rect x="0" y="0" width="512" height="512"/></clipPath><image width="512" height="512" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIAAQMAAADOtka5AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAGUExURQAAAEpXiiD9EHQAAAABdFJOUwBA5thmAAAACXBIWXMAAA3XAAAN1wFCKJt4AAADe0lEQVR42u3cQW6zMBAFYH51kWWP0KNwtORoOUqOkGUXUV0R/8BYZtThPYRL+mY1FeKTAgbG40LXKRQKhUKhUNSRErf/KaUbBfQpPchfwP2GtwG4coeAOwjvA3AngH4AmKN4HoAvAkiJOw3/MnBpB7xlAB8IpwzgA+E9A/hAoIGPDHy2A/oM4GO5PXDOAH41tQdSIq9nAX8ZmHfAAFNTYICpKTDA7AEBtqaAAFtTQICtKSDA1hQQYGsKCLC7IEBREjQBipoCAYqaAgGKkqAJUJQETYDiiX5MoHiiHxMo9hEgQIAAAQIECBDwF4HFDSuA5bWHFcDy2sMKYHlLHHDWHuKAs/YQB5y1hzjgrD3EAWftIQ44m8KAt3SwH+CtPYQBb+0hDHhLB/sB3tLBfoDX+T8Q4HX+DwR42wQIECBAgAABAgQIMNtMAgGn5eX2ONAvr5bHgTJbD5heAgaYXgIGmF4CBpheAgaYXgIGePtEAdsKaAPYXgIE2F4CBNhWQBvAtgLaAHYmf1DAzuQPCni5gJcFFuuAFcByHbACWK4DVgDzXxjg1AFxwKkD4oBTB8QBpw6IA04dEAecbWHAe4zvB3h1QBjw6oAw4D3G9wO8x/h+gPcUPhDgPYUPBER2EiBAgAABAgQIECBAgAABAgQIECBAgIAhbEMykv9CwLaFI/kvBGxzPpJvD9gFiki+PWAXaSJ5BdhlokheAXahKpJvD3T2z3huAPsKUiSvAPsSVCSvAPsaViSvAPsiWCSvAPsqWiSvgM7+FchrwL6OF8hrwL4QGMhroCt/z0/5ArAuBAgQIECAAAECBAgQ8PIA/JVqATMAf6l7MwD+1PdmAPyp7xGAv9Q9AvB3skcA/kr1mR1JZ/Y0TAB6R5gBIGhg+Nk9AzxYINHAlQVuU4sXjDsLPFjga+oRo0EDFx44ccCVBW4scB/75M2Az7FP3gx4zPf1dgB1UxyuJhrgbkk0kNg7yhYAfUsiL8cNAPJy7NirqWMvhi0A7mLYokLghmLHDsWOHUlbANRQHEpsaigWb17BADMQntMMZiA8AWYgPAHmPD6nWsx5LP8HAYg7O+nIAHEe80yLOA15zk6chjxZJK6GCzt1+z/3gwfzOGGGD8I4ZYcPwtR1QA/CNOFGR8LUukF/wzwHx0azaXtgl7TtOUBDAWw5KBQKhUKheO34BjArRn1dA87eAAAAAElFTkSuQmCC" preserveAspectRatio="none" id="img1"></image><clipPath id="clip2"><rect x="0" y="0" width="5202371" height="5202371"/></clipPath></defs><g clip-path="url(#clip0)"><g transform="scale(9.84167e-05 9.84167e-05)"><g clip-path="url(#clip2)"><use width="100%" height="100%" xlink:href="#img1" transform="scale(10160.9 10160.9)"></use></g></g></g></svg>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="300.000000pt" height="300.000000pt" viewBox="0 0 300.000000 300.000000"
+ preserveAspectRatio="xMidYMid meet">
+<metadata>
+Created by potrace 1.10, written by Peter Selinger 2001-2011
+</metadata>
+<g transform="translate(0.000000,300.000000) scale(0.100000,-0.100000)"
+fill="#325096" stroke="none">
+<path d="M116 2800 c-40 -12 -83 -56 -101 -104 -14 -36 -15 -163 -13 -1096 l3
+-1055 22 -54 c60 -147 173 -248 318 -286 52 -13 215 -15 1280 -15 773 0 1233
+4 1256 10 64 18 119 99 119 175 0 76 -55 157 -119 175 -23 6 -470 10 -1216 10
+-789 0 -1192 4 -1218 11 -77 21 -71 -61 -77 1094 l-5 1030 -23 37 c-40 65
+-138 94 -226 68z"/>
+<path d="M2523 2595 c-27 -16 -49 -40 -62 -68 -21 -43 -21 -54 -21 -749 l0
+-705 23 -43 c64 -121 260 -121 324 0 l23 43 0 705 c0 696 0 706 -21 749 -43
+90 -174 123 -266 68z"/>
+<path d="M1422 2235 c-17 -8 -44 -27 -58 -42 -54 -59 -54 -55 -54 -599 0 -495
+0 -505 22 -550 32 -68 84 -99 168 -99 84 0 136 31 168 99 22 45 22 55 22 550
+0 544 0 540 -54 599 -50 54 -143 73 -214 42z"/>
+<path d="M1990 1863 c-33 -13 -79 -56 -94 -88 -14 -28 -16 -83 -16 -371 l0
+-337 25 -43 c55 -94 213 -114 288 -37 55 58 57 74 57 425 0 306 -1 324 -21
+365 -30 61 -87 93 -165 92 -32 0 -66 -3 -74 -6z"/>
+<path d="M870 1677 c-52 -24 -80 -50 -100 -91 -18 -39 -20 -61 -20 -269 0
+-247 5 -275 57 -330 75 -77 233 -57 288 37 25 42 25 45 25 284 0 146 -4 252
+-11 269 -32 85 -158 138 -239 100z"/>
+</g>
+</svg>
